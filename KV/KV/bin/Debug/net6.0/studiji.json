@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "naziv_studija": "Menadzment",
+    "godina": 3
+  },
+  {
+    "id": 2,
+    "naziv_studija": "Menadzment",
+    "godina": 3
+  },
+  {
+    "id": 3,
+    "naziv_studija": "Elektrotehnika",
+    "godina": 3
+  },
+  {
+    "id": 4,
+    "naziv_studija": "Poduzetnistvo",
+    "godina": 3
+
+  },
+  {
+    "id": 5,
+    "naziv_studija": "Racunarstvo",
+    "godina": 3
+
+  }
+]

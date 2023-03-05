@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "naziv_smjera": "Informaticki menadzment"
+  },
+  {
+    "id": 2,
+    "naziv_smjera": "Menadzment ruralnog turizma"
+
+  },
+  {
+    "id": 3,
+    "naziv_smjera": "Telekomunikacije i informatika"
+  },
+  {
+    "id": 4,
+    "naziv_smjera": "Poduzetnistvo usluga"
+  },
+  {
+    "id": 5,
+    "naziv_smjera": "Programsko inzenjerstvo"
+  }
+]

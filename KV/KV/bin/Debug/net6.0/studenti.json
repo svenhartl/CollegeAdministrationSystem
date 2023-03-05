@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "jmbag": "0012450198",
+    "surname": "Hartl",
+    "name": "Sven",
+    "studij": [
+      {
+        "id": 5
+      }
+    ],
+    "smjer": [
+      {
+        "id": 5
+      }
+    ],
+    "godina": 1,
+    "spol": "m"
+  },
+  {
+    "id": 2,
+    "jmbag": "0467256198",
+    "surname": "Ivosevic",
+    "name": "Fran",
+    "studij": [
+      {
+        "id": 5
+      }
+    ],
+    "smjer": [
+      {
+        "id": 5
+      }
+    ],
+    "godina": 1,
+    "spol": "m"
+  },
+  {
+    "id": 3,
+    "jmbag": "0042456124",
+    "surname": "Ljubojevic",
+    "name": "Aleksandar",
+    "studij": [
+      {
+        "id": 5
+      }
+    ],
+    "smjer": [
+      {
+        "id": 5
+      }
+    ],
+    "godina": 1,
+    "spol": "m"
+  },
+  {
+    "id": 4,
+    "jmbag": "0032658138",
+    "surname": "Klecka",
+    "name": "Luka",
+    "studij": [
+      {
+        "id": 1
+      }
+    ],
+    "smjer": [
+      {
+        "id": 1
+      }
+    ],
+    "godina": 1,
+    "spol": "m"
+  },
+  {
+    "id": 5,
+    "jmbag": "1231231231",
+    "surname": "Ivic",
+    "name": "Ivo",
+    "studij": [
+      {
+        "id": 2
+      }
+    ],
+    "smjer": [
+      {
+        "id": 2
+      }
+    ],
+    "godina": 1,
+    "spol": "m"
+  },
+  {
+    "id": 7,
+    "jmbag": "1453974640",
+    "surname": "Horvat",
+    "name": "Luka",
+    "studij": [
+      {
+        "id": 5
+      }
+    ],
+    "smjer": [
+      {
+        "id": 5
+      }
+    ],
+    "godina": 1,
+    "spol": "m"
+  },
+  {
+    "id": 8,
+    "jmbag": "2674532470",
+    "surname": "Martic",
+    "name": "Ivana",
+    "studij": [
+      {
+        "id": 4
+      }
+    ],
+    "smjer": [
+      {
+        "id": 4
+      }
+    ],
+    "godina": 1,
+    "spol": "z"
+  },
+  {
+    "id": 9,
+    "jmbag": "1234321264",
+    "surname": "Spasitelj",
+    "name": "Dominik",
+    "studij": [
+      {
+        "id": 1
+      }
+    ],
+    "smjer": [
+      {
+        "id": 1
+      }
+    ],
+    "godina": 1,
+    "spol": "m"
+  },
+  {
+    "id": 13,
+    "jmbag": "6666666666",
+    "surname": "Krist",
+    "name": "Isus ",
+    "studij": [
+      {
+        "id": 4
+      }
+    ],
+    "smjer": [
+      {
+        "id": 4
+      }
+    ],
+    "godina": 1,
+    "spol": "m"
+  },
+  {
+    "id": 15,
+    "jmbag": "1231231234",
+    "surname": "Vukasin",
+    "name": "Nevena",
+    "studij": [
+      {
+        "id": 3
+      }
+    ],
+    "smjer": [
+      {
+        "id": 3
+      }
+    ],
+    "godina": 1,
+    "spol": "m"
+  },
+  {
+    "id": 11,
+    "jmbag": "1231231231",
+    "surname": "Janic",
+    "name": "Jana",
+    "studij": [
+      {
+        "id": 2
+      }
+    ],
+    "smjer": [
+      {
+        "id": 2
+      }
+    ],
+    "godina": 1,
+    "spol": "z"
+  },
+  {
+    "id": 10,
+    "jmbag": "1233213456",
+    "surname": "Durica",
+    "name": "Duro",
+    "studij": [
+      {
+        "id": 5
+      }
+    ],
+    "smjer": [
+      {
+        "id": 5
+      }
+    ],
+    "godina": 1,
+    "spol": "m"
+  },
+  {
+    "id": 14,
+    "jmbag": "1231231233",
+    "surname": "Lukas",
+    "name": "Aca",
+    "studij": [
+      {
+        "id": 1
+      }
+    ],
+    "smjer": [
+      {
+        "id": 1
+      }
+    ],
+    "godina": 1,
+    "spol": "m"
+  },
+  {
+    "id": 12,
+    "jmbag": "1236549871",
+    "surname": "Marinkovic",
+    "name": "Marin",
+    "studij": [
+      {
+        "id": 2
+      }
+    ],
+    "smjer": [
+      {
+        "id": 2
+      }
+    ],
+    "godina": 1,
+    "spol": "m"
+  },
+  {
+    "id": 6,
+    "jmbag": "1231231231",
+    "surname": "Peric",
+    "name": "Pero",
+    "studij": [
+      {
+        "id": 3
+      }
+    ],
+    "smjer": [
+      {
+        "id": 3
+      }
+    ],
+    "godina": 1,
+    "spol": "m"
+  },
+  {
+    "id": 16,
+    "jmbag": "1231231231",
+    "surname": "Marijanovic",
+    "name": "Ivan",
+    "studij": [
+      {
+        "id": 2
+      }
+    ],
+    "smjer": [
+      {
+        "id": 2
+      }
+    ],
+    "godina": 1,
+    "spol": "m"
+  }
+]

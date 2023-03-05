@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "naziv_predmeta": "Matematika"
+  },
+  {
+    "id": 2,
+    "naziv_predmeta": "Uvod u ICT"
+  },
+  {
+    "id": 3,
+    "naziv_predmeta": "Racunalni engleski jezik"
+
+  },
+  {
+    "id": 4,
+    "naziv_predmeta": "Osnove programiranja"
+
+
+  },
+  {
+    "id": 5,
+    "naziv_predmeta": "Algoritmi i strukture podataka"
+
+
+  }
+]
